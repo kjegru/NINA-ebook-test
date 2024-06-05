@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Test",
+    "title": "This is the title",
     "section": "",
     "text": "Welcome\nWelcome splash page! Provide an overview of the book.\nSample evaluation of R and Python in a side-by-side manner:\nSee Chapter 1 for how to plot and cross reference figures. We cannot make cross referanceble objects on this page, because it is an unnumbered page, and you can’t cross reference to things in unnumbered pages.",
     "crumbs": [
@@ -12,7 +12,7 @@
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
-    "title": "Test",
+    "title": "This is the title",
     "section": "",
     "text": "my_list = list(1, 2, 3)\ntypeof(my_list)\nmy_list = [1, 2, 3]\ntype(my_list)\n\n\nR\n\n[1] \"list\"\n\nPython\n\n&lt;class 'list'&gt;",
     "crumbs": [
