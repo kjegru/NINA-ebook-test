@@ -4,7 +4,7 @@ project:
   
 book:
   title: "This is the title"
-  author: "Kari Nordmann"
+  author: "Kjetil Grun"
   description: | 
     Add some description here if you like.
   repo-url: https://github.com/NINAnor/NINA-ebook-template
