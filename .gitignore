@@ -28,3 +28,6 @@ vignettes/*.pdf
 .Renviron
 /.quarto/
 NINA-ebook-template.Rproj
+# Poetry packages
+poetry.lock
+pyproject.toml
